@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidSDK/platforms/android-31/data/res/drawable/progress_indeterminate_horizontal.xml" value="0.101" />
+        <entry key="..\:/AndroidStudioProjects/MyApplication/MusicCloud/app/src/main/res/drawable/seekbar_horizontal.xml" value="0.259" />
+        <entry key="..\:/AndroidStudioProjects/MyApplication/MusicCloud/app/src/main/res/layout/activity_create_list.xml" value="0.19791666666666666" />
+        <entry key="..\:/AndroidStudioProjects/MyApplication/MusicCloud/app/src/main/res/layout/activity_first_mv.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/MyApplication/MusicCloud/app/src/main/res/layout/activity_hot_list.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/MyApplication/MusicCloud/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/MyApplication/MusicCloud/app/src/main/res/layout/activity_music_recycler_view_item.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/MyApplication/MusicCloud/app/src/main/res/layout/activity_mv.xml" value="0.19791666666666666" />
+        <entry key="..\:/AndroidStudioProjects/MyApplication/MusicCloud/app/src/main/res/layout/activity_new_list.xml" value="0.19791666666666666" />
+        <entry key="..\:/AndroidStudioProjects/MyApplication/MusicCloud/app/src/main/res/layout/activity_video.xml" value="0.19791666666666666" />
+        <entry key="..\:/AndroidStudioProjects/MyApplication/MusicCloud/app/src/main/res/layout/activity_vip_list.xml" value="0.19791666666666666" />
+        <entry key="..\:/AndroidStudioProjects/MyApplication/MusicCloud/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/MyApplication/MusicCloud/app/src/main/res/layout/fragment_music.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/MyApplication/MusicCloud/app/src/main/res/layout/fragment_user.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/MyApplication/MusicCloud/app/src/main/res/layout/fragment_user2.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/MyApplication/MusicCloud/app/src/main/res/layout/hot_list_item.xml" value="0.2390625" />
+        <entry key="..\:/AndroidStudioProjects/MyApplication/MusicCloud/app/src/main/res/layout/layout.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/MyApplication/MusicCloud/app/src/main/res/layout/list_item.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/MyApplication/MusicCloud/app/src/main/res/layout/my_dialog.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/MyApplication/MusicCloud/app/src/main/res/layout/song_list_item.xml" value="0.4" />
+        <entry key="..\:/AndroidStudioProjects/MyApplication/MusicCloud/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidStudioProjects/MyApplication/MusicCloud/app/src/main/res/menu/recyclerview_menu.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

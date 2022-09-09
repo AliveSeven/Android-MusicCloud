@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_user"
+        android:name="com.example.musiccloud.Nav.user.UserFragment"
+        android:label="我的"
+        tools:layout="@layout/fragment_user" />
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.musiccloud.Nav.home.HomeFragment"
+        android:label="首页"
+        tools:layout="@layout/fragment_home" >
+    </fragment>
+
+    <fragment android:id="@+id/navigation_music"
+        android:name="com.example.musiccloud.Nav.music.MusicFragment"
+        android:label="音乐列表"
+        tools:layout="@layout/fragment_music"/>
+
+
+</navigation>
