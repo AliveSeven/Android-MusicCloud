@@ -146,7 +146,7 @@
             android:id="@+id/nav_host_fragment"
             android:name="androidx.navigation.fragment.NavHostFragment"
             android:layout_width="413dp"
-            android:layout_height="403dp"
+            android:layout_height="471dp"
             app:defaultNavHost="true"
             app:layout_constraintBottom_toTopOf="@+id/linearLayout"
             app:layout_constraintEnd_toEndOf="parent"

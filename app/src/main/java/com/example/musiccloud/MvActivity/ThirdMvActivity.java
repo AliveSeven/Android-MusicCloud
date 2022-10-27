@@ -19,7 +19,7 @@ public class ThirdMvActivity extends AppCompatActivity {
         //获取VideoView组件
         VideoView videoView = (VideoView)this.findViewById(R.id.mv_video);
         //网络视频直链，这里是MV青花瓷的直链，直链需要在有效期内使用，否则会失效
-        String uri2 = "https://pro-xhb-video.oss-cn-hangzhou.aliyuncs.com/7c7a0914-389c-4575-9fe2-f4c32a1e66c9.mp4";
+        String uri2 = "https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBdktkSVpjSC1MTnpoQ3lhYnd1RXFET0xZTkNEP2U9ZmJhSlFW.mp4";
         //MediaController可以用于配合VideoView播放一段视频，它为VideoView提供一个悬浮的操作栏,创建MediaController对象
         MediaController mediaController = new MediaController(this);
         //解析对象,uri1为本地播放,uri2为网络播放
